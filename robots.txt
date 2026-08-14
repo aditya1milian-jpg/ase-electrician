@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aditya1milian-jpg.github.io/ase-electrician/sitemap.xml
